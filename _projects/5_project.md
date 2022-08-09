@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Ultra-Extraction
+description: ultra
 img: assets/img/1.jpg
 importance: 3
+redirect: https://github.com/ai4society/Ultra-Extraction
 category: fun
 ---
 

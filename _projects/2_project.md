@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: planning-resources
+description: We will describe useful planning domains that we are using or have created to promote research and teaching.
 img: assets/img/3.jpg
+redirect: https://github.com/ai4society/planning-resources
 importance: 2
 category: work
 ---

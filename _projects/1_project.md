@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: NL2SQL
+description: redirects to project github page
 img: assets/img/12.jpg
+redirect: https://github.com/ai4society/NL2SQL
 importance: 1
 category: work
 ---

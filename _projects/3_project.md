@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: Ultra-Website
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/ai4society/Ultra-Website
 importance: 3
 category: work
 ---
